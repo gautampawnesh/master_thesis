@@ -1,5 +1,7 @@
 # Hierarchical semantic segmentation neural network 
 
+Supervisor: [Renè Schuster (DFKI)](https://av.dfki.de/members/schuster/)
+
 As part of this master thesis, I am investigating following problems for semantic segmentation : 
 
 ### Objectives:
