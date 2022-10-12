@@ -58,4 +58,16 @@ As part of this master thesis, I am investigating following problems for semanti
   
 ### Comparison 
 
-  - Todo
+  - ![Cityscapes][unified_cityscapes]
+  - ![viper][unified_viper]
+  - ![vistas][unified_vistas]
+  - ![ade][unified_ade]
+  - ![wilddash][unified_wilddash]
+  - ![scannet][unified_scannet]
+  
+[unified_cityscapes]: docs/unified_cityscapes.png
+[unified_viper]: docs/unified_viper.png
+[unified_vistas]: docs/unified_vistas.png
+[unified_ade]: docs/unified_ade.png
+[unified_wilddash]: docs/unified_wilddash.png
+[unified_scannet]: docs/unified_scannet.png
