@@ -2,7 +2,12 @@
 
 Supervisor: [Renè Schuster (DFKI)](https://av.dfki.de/members/schuster/)
 
-As part of this master thesis, I am investigating following problems for semantic segmentation : 
+The goal is to develop a neural network that consequently perform well on a variety of datasets with
+different characteristics. In this, hierarchical architectures and embedding approaches are being
+explored and evaluated on cross domain datasets. It include various challenges to include datasets from
+different domain like road datasets & indoor datasets and training on multiple GPU environment. The
+outcome of these results are compared with current novel algorithms, techniques using different
+evaluation matrices.
 
 ### Objectives:
 
