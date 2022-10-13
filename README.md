@@ -19,6 +19,10 @@ evaluation matrices.
  ### Approaches:
  
    ```TODO will be published after the thesis submission.```
+   1. Human picked class hierarchy
+    ![Human class Hierarchy][manual_hierarchy]
+   2. Neural Network picked class hierarchy
+    ![NN class Hierarchy][auto_hierarchy]
    
   
   
@@ -76,3 +80,7 @@ evaluation matrices.
 [unified_ade]: docs/unified_ade.png
 [unified_wilddash]: docs/unified_wilddash.png
 [unified_scannet]: docs/unified_scannet.png
+[unified_scannet]: docs/unified_scannet.png
+
+[auto_hierarchy]: docs/auto_hierarchy.png
+[manual_hierarchy]: docs/manual_hierarchy.png
