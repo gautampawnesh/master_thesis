@@ -67,6 +67,7 @@ evaluation matrices.
   
 ### Comparison 
 
+  - ![Unified Dataset][unified_dataset]
   - ![Cityscapes][unified_cityscapes]
   - ![viper][unified_viper]
   - ![vistas][unified_vistas]
@@ -84,3 +85,4 @@ evaluation matrices.
 
 [auto_hierarchy]: docs/auto_hierarchy.png
 [manual_hierarchy]: docs/manual_hierarchy.png
+[unified_dataset]: docs/unified_dataset.png
