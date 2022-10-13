@@ -85,4 +85,4 @@ evaluation matrices.
 
 [auto_hierarchy]: docs/auto_hierarchy.png
 [manual_hierarchy]: docs/manual_hierarchy.png
-[unified_dataset]: docs/unified_dataset.png
+[unified_dataset]: docs/unified_dataset2.png
