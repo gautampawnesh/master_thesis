@@ -34,7 +34,7 @@ evaluation matrices.
 | Dataset | Single Dataset  | Cross-domain Dataset |
 | ------------- | ------------- | ------------- |
 | Cityscapes  | 0.687  | 0.7469  |
-| Vistas  | -  | 0.3934  |
+| Vistas  | 0.3114  | 0.3934  |
 | Viper  | 0.5289  | 0.5872  |
 | Wilddash  | 0.4878  | 0.5825  |
 | Ade  | 0.2267  | 0.3389  |
@@ -44,12 +44,12 @@ evaluation matrices.
   
  | Dataset | DeepLab v3+  | Hierarchical Network |
 | ------------- | ------------- | ------------- |
-| Cityscapes| 0.7469  | - |
-| Vistas | 0.3934  | - |
-| Viper | 0.5872  | - |
-| Wilddash | 0.5825  | - |
-| Ade | 0.3389  | - |
-| Scannet | 0.5228  | -|
+| Cityscapes| 0.7469  | 0.7558 |
+| Vistas | 0.3934  | 0.4242 |
+| Viper | 0.5872  | 0.5431 |
+| Wilddash | 0.5825  | 0.576 |
+| Ade | 0.3389  | 0.2772 |
+| Scannet | 0.5228  | 0.4876|
 
 3. Human Picked class hierarchy vs automated class hierarchy
 
